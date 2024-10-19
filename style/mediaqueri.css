@@ -1,0 +1,121 @@
+@media (max-width: 1288px) {
+  .heading-primary {
+    font-size: 7.4rem;
+  }
+}
+@media (max-width: 1159px) {
+  .heading-primary {
+    font-size: 6.2rem;
+  }
+}
+@media (max-width: 1278px) {
+  .heading-primary {
+    font-size: 5.2rem;
+  }
+}
+@media (max-width: 1278px) {
+  /* .heading-primary {
+    font-size: 7.4rem;
+  } */
+}
+@media (max-width: 1083px) {
+  /* .heading-primary {
+    font-size: 7.4rem;
+  } */
+  /* .heading-primary {
+    font-size: 4.4rem;
+  } */
+}
+@media (max-width: 910px) {
+  .secondary-btn {
+    display: none;
+  }
+  .heading-primary {
+    font-size: 4.4rem;
+  }
+}
+@media (max-width: 870px) {
+  .heading-primary {
+    font-size: 3.6rem;
+  }
+}
+@media (max-width: 785px) {
+  .hero-img {
+    display: none;
+  }
+}
+@media (max-width: 765px) {
+  .main-nav {
+    display: none;
+  }
+  .menu-icon {
+    display: block;
+  }
+  .footer-container {
+    gap: 8.6rem;
+  }
+}
+@media (max-width: 755px) {
+  .section-hero {
+    padding: 0 0 0 2.4rem;
+  }
+  .section-about {
+    padding-top: 1rem;
+  }
+  .footer-container {
+    gap: 7.6rem;
+  }
+}
+@media (max-width: 650px) {
+  .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .footer-social-icons {
+    grid-column: span 2;
+  }
+}
+@media (max-width: 605px) {
+  .hero-social-icons {
+    display: none;
+  }
+  .hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 867px) {
+  .about-container {
+    /* display: grid;
+    grid-template-columns: 1fr;
+    align-items: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .skill-set {
+    width: 50%;
+  }
+  .skills {
+    padding: 1.2rem;
+    /* width: 30%; */
+  }
+  .skill {
+    width: 75%;
+    min-width: 30rem;
+  }
+}
+@media (max-width: 914px) {
+  .services-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3.6rem;
+    width: 70%;
+    margin: 0 auto;
+    /* height: 40rem; */
+  }
+}
